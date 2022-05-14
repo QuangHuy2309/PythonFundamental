@@ -1,0 +1,186 @@
+{
+  "data": [
+    {
+      "dayOfWeek": "Sunday",
+      "priceParking": [
+        {
+          "sessionOfDay": "Morning",
+          "price": "2.00",
+          "range": "08:00 - 16:59",
+          "maxStayInHour": "8",
+          "unit": "hour"
+        },
+        {
+          "sessionOfDay": "Evening",
+          "price": "5.00",
+          "range": "17:00 - 00:00",
+          "maxStayInHour": "7",
+          "unit": "hour"
+        },
+        {
+          "sessionOfDay": "Night",
+          "price": "20.00",
+          "range": "00:00 - 07:59",
+          "maxStayInHour": "0",
+          "unit": "time"
+        }
+      ]
+    },
+    {
+      "dayOfWeek": "Monday",
+      "priceParking": [
+        {
+          "sessionOfDay": "Morning",
+          "price": "10.00",
+          "range": "08:00 - 16:59",
+          "maxStayInHour": "2",
+          "unit": "hour"
+        },
+        {
+          "sessionOfDay": "Evening",
+          "price": "5.00",
+          "range": "17:00 - 00:00",
+          "maxStayInHour": "7",
+          "unit": "hour"
+        },
+        {
+          "sessionOfDay": "Night",
+          "price": "20.00",
+          "range": "00:00 - 07:59",
+          "maxStayInHour": "0",
+          "unit": "time"
+        }
+      ]
+    },
+    {
+      "dayOfWeek": "Tuesday",
+      "priceParking": [
+        {
+          "sessionOfDay": "Morning",
+          "price": "10.00",
+          "range": "08:00 - 16:59",
+          "maxStayInHour": "2",
+          "unit": "hour"
+        },
+        {
+          "sessionOfDay": "Evening",
+          "price": "5.00",
+          "range": "17:00 - 00:00",
+          "maxStayInHour": "7",
+          "unit": "hour"
+        },
+        {
+          "sessionOfDay": "Night",
+          "price": "20.00",
+          "range": "00:00 - 07:59",
+          "maxStayInHour": "0",
+          "unit": "time"
+        }
+      ]
+    },
+    {
+      "dayOfWeek": "Wednesday",
+      "priceParking": [
+        {
+          "sessionOfDay": "Morning",
+          "price": "10.00",
+          "range": "08:00 - 16:59",
+          "maxStayInHour": "2",
+          "unit": "hour"
+        },
+        {
+          "sessionOfDay": "Evening",
+          "price": "5.00",
+          "range": "17:00 - 00:00",
+          "maxStayInHour": "7",
+          "unit": "hour"
+        },
+        {
+          "sessionOfDay": "Night",
+          "price": "20.00",
+          "range": "00:00 - 07:59",
+          "maxStayInHour": "0",
+          "unit": "time"
+        }
+      ]
+    },
+    {
+      "dayOfWeek": "Thursday",
+      "priceParking": [
+        {
+          "sessionOfDay": "Morning",
+          "price": "10.00",
+          "range": "08:00 - 16:59",
+          "maxStayInHour": "2",
+          "unit": "hour"
+        },
+        {
+          "sessionOfDay": "Evening",
+          "price": "5.00",
+          "range": "17:00 - 00:00",
+          "maxStayInHour": "7",
+          "unit": "hour"
+        },
+        {
+          "sessionOfDay": "Night",
+          "price": "20.00",
+          "range": "00:00 - 07:59",
+          "maxStayInHour": "0",
+          "unit": "time"
+        }
+      ]
+    },
+    {
+      "dayOfWeek": "Friday",
+      "priceParking": [
+        {
+          "sessionOfDay": "Morning",
+          "price": "10.00",
+          "range": "08:00 - 16:59",
+          "maxStayInHour": "2",
+          "unit": "hour"
+        },
+        {
+          "sessionOfDay": "Evening",
+          "price": "5.00",
+          "range": "17:00 - 00:00",
+          "maxStayInHour": "7",
+          "unit": "hour"
+        },
+        {
+          "sessionOfDay": "Night",
+          "price": "20.00",
+          "range": "00:00 - 07:59",
+          "maxStayInHour": "0",
+          "unit": "time"
+        }
+      ]
+    },
+    {
+      "dayOfWeek": "Saturday",
+      "priceParking": [
+        {
+          "sessionOfDay": "Morning",
+          "price": "3.00",
+          "range": "08:00 - 16:59",
+          "maxStayInHour": "4",
+          "unit": "hour"
+        },
+        {
+          "sessionOfDay": "Evening",
+          "price": "5.00",
+          "range": "17:00 - 00:00",
+          "maxStayInHour": "7",
+          "unit": "hour"
+        },
+        {
+          "sessionOfDay": "Night",
+          "price": "20.00",
+          "range": "00:00 - 07:59",
+          "maxStayInHour": "0",
+          "unit": "time"
+        }
+      ]
+    }
+  ]
+}
